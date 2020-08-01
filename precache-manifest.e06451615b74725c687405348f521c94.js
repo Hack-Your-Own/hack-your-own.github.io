@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "12f642f4da559e01c87578ead7f60451",
+    "revision": "a1726bda7270594c8392b0b0d30719fa",
     "url": "/index.html"
   },
   {
-    "revision": "b947e07922e18e45c038",
+    "revision": "80b6a2d3d704caa40484",
     "url": "/static/css/main.844691b1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.b949d47d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b947e07922e18e45c038",
-    "url": "/static/js/main.486bed7a.chunk.js"
+    "revision": "80b6a2d3d704caa40484",
+    "url": "/static/js/main.65e5e583.chunk.js"
   },
   {
     "revision": "985b9523fa7178415d1f",
@@ -166,6 +166,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0c84728284b5c16b0917ccbd77db2782",
     "url": "/static/media/twitterIcon.0c847282.svg"
+  },
+  {
+    "revision": "80d11e2c433fe45156a975778ce79ae1",
+    "url": "/static/media/undraw_gifts.80d11e2c.svg"
   },
   {
     "revision": "33dcf1dc6260a8a4cbf3341e66454641",
