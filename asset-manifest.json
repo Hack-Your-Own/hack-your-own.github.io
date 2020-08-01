@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.844691b1.chunk.css",
-    "main.js": "/static/js/main.78d97a5c.chunk.js",
-    "main.js.map": "/static/js/main.78d97a5c.chunk.js.map",
+    "main.js": "/static/js/main.83870123.chunk.js",
+    "main.js.map": "/static/js/main.83870123.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.670d09c7.js",
     "runtime-main.js.map": "/static/js/runtime-main.670d09c7.js.map",
     "static/js/2.b949d47d.chunk.js": "/static/js/2.b949d47d.chunk.js",
     "static/js/2.b949d47d.chunk.js.map": "/static/js/2.b949d47d.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7bd82f65c537771535b46a801acdf799.js": "/precache-manifest.7bd82f65c537771535b46a801acdf799.js",
+    "precache-manifest.2eaec1784859ce7e01a3b712db30917a.js": "/precache-manifest.2eaec1784859ce7e01a3b712db30917a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.844691b1.chunk.css.map": "/static/css/main.844691b1.chunk.css.map",
     "static/js/2.b949d47d.chunk.js.LICENSE.txt": "/static/js/2.b949d47d.chunk.js.LICENSE.txt",
@@ -23,7 +23,7 @@
     "static/media/discordIcon.9599781e.svg": "/static/media/discordIcon.9599781e.svg",
     "static/media/discordLogo.fd8dbe9b.svg": "/static/media/discordLogo.fd8dbe9b.svg",
     "static/media/getMatched.fe2aed06.svg": "/static/media/getMatched.fe2aed06.svg",
-    "static/media/gifts.80d11e2c.svg": "/static/media/gifts.80d11e2c.svg",
+    "static/media/gifts.beb90138.svg": "/static/media/gifts.beb90138.svg",
     "static/media/githubIcon.a48bea40.svg": "/static/media/githubIcon.a48bea40.svg",
     "static/media/hamburger.8f3625ae.svg": "/static/media/hamburger.8f3625ae.svg",
     "static/media/heroImage.2991fe82.svg": "/static/media/heroImage.2991fe82.svg",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.670d09c7.js",
     "static/js/2.b949d47d.chunk.js",
     "static/css/main.844691b1.chunk.css",
-    "static/js/main.78d97a5c.chunk.js"
+    "static/js/main.83870123.chunk.js"
   ]
 }
